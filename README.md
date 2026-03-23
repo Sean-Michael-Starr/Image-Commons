@@ -1,10 +1,19 @@
-<!-- doc ver 1.2.0-alpha -->
+<!-- doc ver 1.4.0-alpha -->
 # Image-Commons
+
+<p align="center">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/STABILITY-WORK_IN_PROGRESS-GREY?style=for-the-badge&logo=github&logoSize=auto&labelColor=blue&color=grey">
+
+</p>
+
 ## Communications & Community
 ### Element
 #### .svg Format
-**Ratio: 1:1** <br>
+**Ratio: 1:1**
+<p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Element_%28software%29_logo_%282020%29.svg" alt="Element" width="60" height="60">
+</p>
 
 ```text
 https://upload.wikimedia.org/wikipedia/commons/a/a7/Element_%28software%29_logo_%282020%29.svg
@@ -16,8 +25,11 @@ https://upload.wikimedia.org/wikipedia/commons/a/a7/Element_%28software%29_logo_
 
 ## AI/LLM/ML
 ### Docling
-
+#### .svg Formay
+**ratio 1:1** 
+<p align="center">
 <img src="https://www.docling.ai/img/logo.svg" alt="Docling" height="60" />
+</p>
 
 ```
 https://www.docling.ai/img/logo.svg
