@@ -1,4 +1,4 @@
-<!-- doc ver 1.5.0-alpha -->
+<!-- doc ver 1.6.0-alpha -->
 # Image-Commons
 
 <p align="center">
@@ -24,6 +24,20 @@ https://upload.wikimedia.org/wikipedia/commons/a/a7/Element_%28software%29_logo_
 ```
 
 ## AI/LLM/ML
+### Mistral AI
+#### .svg Format
+**Aspect Ratio: 1 : 0.705078125**
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg" height="60" alt="Mistral AI Icon">
+</p>
+
+```
+https://upload.wikimedia.org/wikipedia/commons/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg
+```
+
+```html
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Mistral_AI_logo_%282025%E2%80%93%29.svg" height="60" alt="Mistral AI Icon">
+```
 ### Docling
 #### .svg Formay
 **ratio 1:1** 
@@ -34,6 +48,7 @@ https://upload.wikimedia.org/wikipedia/commons/a/a7/Element_%28software%29_logo_
 ```
 https://www.docling.ai/img/logo.svg
 ```
+
 ```html
 <img src="https://www.docling.ai/img/logo.svg" alt="Docling" height="60" />
 ```
