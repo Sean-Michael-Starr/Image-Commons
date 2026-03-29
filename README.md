@@ -1,11 +1,22 @@
-<!-- doc ver 1.6.0-alpha -->
+<!-- doc ver 1.7.0-alpha -->
 # Image-Commons
-
 <p align="center">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/STABILITY-WORK_IN_PROGRESS-GREY?style=for-the-badge&logo=github&logoSize=auto&labelColor=blue&color=grey">
 
 </p>
+
+## Introduction 
+These are links to images hosted by the **Wikimedia** project, spanning various topics. At this stage there is no real order in the listing.
+
+### Project Roadmap
+- [ ] Create defined sections and subsections
+- [ ] Add items to the sections
+- [ ] Provide .png links
+- [ ] Expand from just icons to headers
+- [ ] Create alternate light/dark versions for situations where CSS `contrast` is not an option (suxh as Github)
+
+---
 
 ## Communications & Community
 ### Element
@@ -69,5 +80,61 @@ https://upload.wikimedia.org/wikipedia/commons/0/04/CryptPad_logo_icon.svg
 ```
 
 ```html
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/CryptPad_logo_icon.svg" width="height="60" alt="cryptpad.fr">
 ```
+
+---
+
+## Legal
+###.Warrant Canary
+#### Canary Warrant - Alive
+##### .png Format
+**Aspect Ratio: 1:1** 
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Canary-logo.png" alt="Canary Warrant - Alive" width="60" height="60">
+</p>
+
+```
+https://upload.wikimedia.org/wikipedia/commons/b/b5/Canary-logo.png
+```
+
+```html
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Canary-logo.png" alt="Canary Warrant - Alive" width="60" height="60">
+```
+
+#### Canary Warrant - Dead
+##### .png Format
+**Aspect Ratio: 1:1** 
+<p align="center">
+<img src=https://upload.wikimedia.org/wikipedia/commons/8/83/Canary-logo_dead.png alt="Canary Warrant - Dead" width="60" height="60">
+</p>
+
+```
+https://upload.wikimedia.org/wikipedia/commons/8/83/Canary-logo_dead.png
+```
+
+```html
+<img src="httpshttps://upload.wikimedia.org/wikipedia/commons/8/83/Canary-logo_dead.png" alt="Canary Warrant - Dead" width="60" height="60">
+```
+
+---
+
+## Protocols & Networks
+### Meshnets
+#### Full Mesh Network
+##### .svg format
+**aspect ratio: 1 : 0.96774193548387**
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/FullMeshNetwork.svg" height="60" width="62" alt="Full Mesh Network">
+</p>
+
+```
+https://commons.wikimedia.org/wiki/File:FullMeshNetwork.svg
+```
+
+```html
+<img src="https://commons.wikimedia.org/wiki/File:FullMeshNetwork.svg" height="60" width="62" alt="Full Mesh Network">
+```
+
+---
