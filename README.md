@@ -1,4 +1,4 @@
-<!-- doc ver 1.7.0-alpha -->
+<!-- doc ver 1.8.0-alpha -->
 # Image-Commons
 <p align="center">
 
@@ -87,7 +87,7 @@ https://upload.wikimedia.org/wikipedia/commons/0/04/CryptPad_logo_icon.svg
 ---
 
 ## Legal
-###.Warrant Canary
+### Warrant Canary
 #### Canary Warrant - Alive
 ##### .png Format
 **Aspect Ratio: 1:1** 
@@ -135,6 +135,44 @@ https://commons.wikimedia.org/wiki/File:FullMeshNetwork.svg
 
 ```html
 <img src="https://commons.wikimedia.org/wiki/File:FullMeshNetwork.svg" height="60" width="62" alt="Full Mesh Network">
+```
+
+---
+
+## File Formats
+### Documemts
+#### .epub documwnt
+##### .svg format
+**Aspect Ratio: 1 : 1.1407185628743** <br>
+**Dimensions: 334 x 381 px** <br>
+**Size: 2KB**
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Icon_epub_file.svg" alt="epub Ducument" height="60" height="53">
+</p>
+
+```
+https://upload.wikimedia.org/wikipedia/commons/7/70/Icon_epub_file.svg
+```
+
+```html
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Icon_epub_file.svg" alt="epub Ducument">
+```
+
+#### .pdf documemt
+##### .svg format
+**Aspect Ratio:1 : 1.2284644194757** <br>
+**Dimensions: 267 x 328 px** <br>
+**Size: 5KB**
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF document" width="49" height="60">
+</p>
+
+```
+https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
+```
+
+```html
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF document" width="49" height="60">
 ```
 
 ---
