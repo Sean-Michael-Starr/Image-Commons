@@ -1,4 +1,4 @@
-<!-- doc ver 1.8.0-alpha -->
+<!-- doc ver 1.9.0-alpha -->
 # Image-Commons
 <p align="center">
 
@@ -66,11 +66,30 @@ https://www.docling.ai/img/logo.svg
 
 ---
 
+## Platforms
+### Goodreads
+#### .svg
+**Aspect Ratio: 1:1** <br>
+**Dimensions: 512 x 512 px** <br>
+**Size: 14KB**
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Goodreads_%27g%27_logo.svg" alt="Goodreads" height="60" width="60">
+</p>
+
+```
+https://upload.wikimedia.org/wikipedia/commons/4/4e/Goodreads_%27g%27_logo.svg
+```
+
+```html
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Goodreads_%27g%27_logo.svg" alt="Goodreads">
+```
+
+
 ## Collaboration and Version Control Systems
 ### Cryptad
 #### .svg format
 **aspect ratio: 1 : 1.2464285714286** <br>
-Size: 2kb
+**Size: 2kb**
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/CryptPad_logo_icon.svg" width="42" height="60" alt="cryptpad.fr">
 </p>
