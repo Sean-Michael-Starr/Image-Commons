@@ -1,4 +1,4 @@
-<!-- doc ver 1.9.0-alpha -->
+<!-- doc ver 1.10.0-alpha -->
 # Image-Commons
 <p align="center">
 
@@ -14,7 +14,7 @@ These are links to images hosted by the **Wikimedia** project, spanning various 
 - [ ] Add items to the sections
 - [ ] Provide .png links
 - [ ] Expand from just icons to headers
-- [ ] Create alternate light/dark versions for situations where CSS `contrast` is not an option (suxh as Github)
+- [ ] Create alternate light/dark versions for situations where CSS `contrast` is not an option (such as Github)
 
 ---
 
@@ -192,6 +192,43 @@ https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg
 
 ```html
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF document" width="49" height="60">
+```
+
+---
+
+## Applications
+### Text Editors
+#### Notepad++
+##### .png format
+**Aspect Ratio: 1 : 1** <br>
+**Dimensions: 256 x 256 px** <br>
+**Size: 78 KB**
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" alt="Notepad++" height="60" width="60">
+</p>
+
+```
+https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png
+```
+
+```html
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" alt="Notepad++">
+```
+
+##### .svg format
+**Aspect Ratio: 1 : 1** <br>
+**Dimensions: 256 x 256 px** <br>
+**Size: 622 KB**
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" alt="Notepad++" height="60" width="60">
+</p>
+
+```
+https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg
+```
+
+```html
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" alt="Notepad++">
 ```
 
 ---
