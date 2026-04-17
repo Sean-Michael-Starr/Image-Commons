@@ -1,4 +1,4 @@
-<!-- doc ver 1.10.0-alpha -->
+<!-- doc ver 1.11.0-alpha -->
 # Image-Commons
 <p align="center">
 
@@ -219,6 +219,7 @@ https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png
 **Aspect Ratio: 1 : 1** <br>
 **Dimensions: 256 x 256 px** <br>
 **Size: 622 KB**
+
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" alt="Notepad++" height="60" width="60">
 </p>
@@ -230,5 +231,49 @@ https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg
 ```html
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Notepad_plus_plus.svg" alt="Notepad++">
 ```
+
+---
+
+### Document/Office Applications
+#### Calibre
+##### .svg format
+**Aspect Ratio: 1 : 1** <br>
+**Dimensions: 1024 x 1024 px** <br>
+**Size: 33 KB**
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Calibre_logo_SVG_version.svg" alt="Calibre" width="60" height="60">
+</p>
+
+```
+https://upload.wikimedia.org/wikipedia/commons/a/aa/Calibre_logo_SVG_version.svg
+```
+
+```html
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Calibre_logo_SVG_version.svg" alt="Calibre" width="60" height="60">
+```
+
+##### .png format
+**Aspect Ratio: 1 : 1** <br>
+**Dimensions: 256 x 256 px** <br>
+**Size: 98 KB**
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Calibre_logo_3.png" width="60" width="60" alt="Calibre">
+</p>
+
+```
+https://upload.wikimedia.org/wikipedia/commons/c/cf/Calibre_logo_3.png
+```
+
+```html
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Calibre_logo_3.png" width="60" width="60" alt="Calibre">
+```
+
+---
+
+
+
+---
+
+
 
 ---
